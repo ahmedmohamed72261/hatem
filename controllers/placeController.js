@@ -1,5 +1,5 @@
 const Place = require("../models/places");
-const User = require("../models/user"); // تأكد من وجود هذا الموديل
+const User = require("../models/User"); // تأكد من وجود هذا الموديل
 const mongoose = require("mongoose");
 
 // ✅ جلب جميع الأماكن
